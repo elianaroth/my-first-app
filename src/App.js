@@ -1,5 +1,5 @@
 import React from "react";
-import image from "./assets/Dino3.jpg";
+import image from "./assets/Dino4.jpg";
 import "./styles.css";
 
 export default function App() {
